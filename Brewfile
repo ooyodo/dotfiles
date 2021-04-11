@@ -17,8 +17,8 @@ cask 'slack'
 cask 'the-unarchiver'
 # Alfred
 cask 'alfred'
-# fork
-cask 'fork'
+# atom
+cask 'atom'
 # SafeInCloudManager
 cask 'safeincloud-password-manager'
 
