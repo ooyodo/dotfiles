@@ -21,8 +21,8 @@ cask 'alfred'
 cask 'atom'
 # SafeInCloudManager
 cask 'safeincloud-password-manager'
-# calendar 366
-cask 'calendar-366'
+# google backup and sync
+cask 'google-backup-and-sync'
 
 # Greenshot
 mas 'Greenshot', id: 1103915944
